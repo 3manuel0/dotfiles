@@ -1,0 +1,482 @@
+
+2024/10/26 (13:12:46) | ===> btop++ v.1.2.13
+2024/10/26 (13:12:46) | INFO: Logger set to DEBUG
+2024/10/26 (13:12:46) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:12:46) | INFO: Running on /dev/pts/0
+
+2024/10/26 (13:13:32) | ===> btop++ v.1.2.13
+2024/10/26 (13:13:32) | INFO: Logger set to DEBUG
+2024/10/26 (13:13:32) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:13:32) | INFO: Running on /dev/pts/0
+2024/10/26 (13:14:02) | DEBUG: Writing new config file
+2024/10/26 (13:14:02) | INFO: Quitting! Runtime: 00:00:30
+
+2024/10/26 (13:14:13) | ===> btop++ v.1.2.13
+2024/10/26 (13:14:13) | INFO: Logger set to DEBUG
+2024/10/26 (13:14:13) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:14:13) | INFO: Running on /dev/pts/0
+
+2024/10/26 (13:26:06) | ===> btop++ v.1.2.13
+2024/10/26 (13:26:06) | INFO: Logger set to DEBUG
+2024/10/26 (13:26:06) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:26:06) | INFO: Running on /dev/pts/0
+2024/10/26 (13:26:11) | DEBUG: Loading theme file: /usr/share/btop/themes/dusklight.theme
+2024/10/26 (13:26:15) | DEBUG: Writing new config file
+2024/10/26 (13:26:15) | INFO: Quitting! Runtime: 00:00:09
+
+2024/10/26 (13:28:59) | ===> btop++ v.1.2.13
+2024/10/26 (13:28:59) | INFO: Logger set to DEBUG
+2024/10/26 (13:28:59) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:28:59) | INFO: Running on /dev/pts/0
+2024/10/26 (13:28:59) | DEBUG: Loading theme file: /usr/share/btop/themes/dusklight.theme
+2024/10/26 (13:29:03) | DEBUG: Loading theme file: /usr/share/btop/themes/solarized_dark.theme
+2024/10/26 (13:29:03) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
+2024/10/26 (13:29:03) | DEBUG: Loading theme file: /usr/share/btop/themes/kyli0x.theme
+2024/10/26 (13:29:03) | DEBUG: Loading theme file: /usr/share/btop/themes/adapta.theme
+2024/10/26 (13:29:04) | DEBUG: Loading theme file: /usr/share/btop/themes/dracula.theme
+2024/10/26 (13:29:04) | DEBUG: Loading theme file: /usr/share/btop/themes/tomorrow-night.theme
+2024/10/26 (13:29:04) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/10/26 (13:29:05) | DEBUG: Loading theme file: /usr/share/btop/themes/onedark.theme
+2024/10/26 (13:29:05) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark.theme
+2024/10/26 (13:29:05) | DEBUG: Loading theme file: /usr/share/btop/themes/greyscale.theme
+2024/10/26 (13:29:06) | DEBUG: Loading theme file: /usr/share/btop/themes/nord.theme
+2024/10/26 (13:29:06) | DEBUG: Loading theme file: /usr/share/btop/themes/paper.theme
+2024/10/26 (13:29:07) | DEBUG: Loading theme file: /usr/share/btop/themes/tokyo-storm.theme
+2024/10/26 (13:29:07) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark_v2.theme
+2024/10/26 (13:29:07) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_material_dark.theme
+2024/10/26 (13:29:07) | DEBUG: Loading theme file: /usr/share/btop/themes/solarized_light.theme
+2024/10/26 (13:29:08) | DEBUG: Loading theme file: /usr/share/btop/themes/whiteout.theme
+2024/10/26 (13:29:08) | DEBUG: Loading theme file: /usr/share/btop/themes/night-owl.theme
+2024/10/26 (13:29:09) | DEBUG: Loading theme file: /usr/share/btop/themes/matcha-dark-sea.theme
+2024/10/26 (13:29:09) | DEBUG: Loading theme file: /usr/share/btop/themes/everforest-dark-hard.theme
+2024/10/26 (13:29:10) | DEBUG: Loading theme file: /usr/share/btop/themes/elementarish.theme
+2024/10/26 (13:29:10) | DEBUG: Loading theme file: /usr/share/btop/themes/monokai.theme
+2024/10/26 (13:29:10) | DEBUG: Loading theme file: /usr/share/btop/themes/tokyo-night.theme
+2024/10/26 (13:29:11) | DEBUG: Loading theme file: /usr/share/btop/themes/flat-remix-light.theme
+2024/10/26 (13:29:12) | DEBUG: Loading theme file: /usr/share/btop/themes/flat-remix.theme
+2024/10/26 (13:29:14) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (13:30:31) | ===> btop++ v.1.2.13
+2024/10/26 (13:30:31) | INFO: Logger set to DEBUG
+2024/10/26 (13:30:31) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:30:31) | INFO: Running on /dev/pts/0
+2024/10/26 (13:30:31) | DEBUG: Loading theme file: /usr/share/btop/themes/dusklight.theme
+2024/10/26 (13:30:36) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (13:31:03) | DEBUG: Writing new config file
+2024/10/26 (13:31:03) | INFO: Quitting! Runtime: 00:00:32
+
+2024/10/26 (13:31:04) | ===> btop++ v.1.2.13
+2024/10/26 (13:31:04) | INFO: Logger set to DEBUG
+2024/10/26 (13:31:04) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:31:04) | INFO: Running on /dev/pts/0
+2024/10/26 (13:31:04) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (13:31:29) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (13:31:34) | DEBUG: Writing new config file
+2024/10/26 (13:31:34) | INFO: Quitting! Runtime: 00:00:30
+
+2024/10/26 (13:32:30) | ===> btop++ v.1.2.13
+2024/10/26 (13:32:30) | INFO: Logger set to DEBUG
+2024/10/26 (13:32:30) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:32:30) | INFO: Running on /dev/pts/0
+2024/10/26 (13:32:30) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (13:34:02) | ===> btop++ v.1.2.13
+2024/10/26 (13:34:02) | INFO: Logger set to DEBUG
+2024/10/26 (13:34:02) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (13:34:02) | INFO: Running on /dev/pts/0
+2024/10/26 (13:34:02) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:05:54) | ===> btop++ v.1.2.13
+2024/10/26 (14:05:54) | INFO: Logger set to DEBUG
+2024/10/26 (14:05:54) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:05:54) | INFO: Running on /dev/pts/0
+2024/10/26 (14:05:54) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:32:19) | ===> btop++ v.1.2.13
+2024/10/26 (14:32:19) | INFO: Logger set to DEBUG
+2024/10/26 (14:32:19) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:32:19) | INFO: Running on /dev/pts/0
+2024/10/26 (14:32:19) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:34:15) | ===> btop++ v.1.2.13
+2024/10/26 (14:34:15) | INFO: Logger set to DEBUG
+2024/10/26 (14:34:15) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:34:15) | INFO: Running on /dev/pts/0
+2024/10/26 (14:34:15) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:34:34) | ===> btop++ v.1.2.13
+2024/10/26 (14:34:34) | INFO: Logger set to DEBUG
+2024/10/26 (14:34:34) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:34:34) | INFO: Running on /dev/pts/0
+2024/10/26 (14:34:34) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:35:09) | ===> btop++ v.1.2.13
+2024/10/26 (14:35:09) | INFO: Logger set to DEBUG
+2024/10/26 (14:35:09) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:35:09) | INFO: Running on /dev/pts/0
+2024/10/26 (14:35:09) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:36:07) | ===> btop++ v.1.2.13
+2024/10/26 (14:36:07) | INFO: Logger set to DEBUG
+2024/10/26 (14:36:07) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:36:07) | INFO: Running on /dev/pts/0
+2024/10/26 (14:36:07) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:36:50) | ===> btop++ v.1.2.13
+2024/10/26 (14:36:50) | INFO: Logger set to DEBUG
+2024/10/26 (14:36:50) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:36:50) | INFO: Running on /dev/pts/0
+2024/10/26 (14:36:50) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:37:31) | ===> btop++ v.1.2.13
+2024/10/26 (14:37:31) | INFO: Logger set to DEBUG
+2024/10/26 (14:37:31) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:37:31) | INFO: Running on /dev/pts/0
+2024/10/26 (14:37:31) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:38:07) | ===> btop++ v.1.2.13
+2024/10/26 (14:38:07) | INFO: Logger set to DEBUG
+2024/10/26 (14:38:07) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:38:07) | INFO: Running on /dev/pts/0
+2024/10/26 (14:38:07) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:39:11) | ===> btop++ v.1.2.13
+2024/10/26 (14:39:11) | INFO: Logger set to DEBUG
+2024/10/26 (14:39:11) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:39:11) | INFO: Running on /dev/pts/0
+2024/10/26 (14:39:11) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:40:08) | ===> btop++ v.1.2.13
+2024/10/26 (14:40:08) | INFO: Logger set to DEBUG
+2024/10/26 (14:40:08) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:40:08) | INFO: Running on /dev/pts/0
+2024/10/26 (14:40:08) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:40:51) | ===> btop++ v.1.2.13
+2024/10/26 (14:40:51) | INFO: Logger set to DEBUG
+2024/10/26 (14:40:51) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:40:51) | INFO: Running on /dev/pts/0
+2024/10/26 (14:40:51) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:42:00) | ===> btop++ v.1.2.13
+2024/10/26 (14:42:00) | INFO: Logger set to DEBUG
+2024/10/26 (14:42:00) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:42:00) | INFO: Running on /dev/pts/0
+2024/10/26 (14:42:00) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:42:25) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:42:32) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:42:46) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:43:21) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:43:26) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:43:27) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:46:48) | ===> btop++ v.1.2.13
+2024/10/26 (14:46:48) | INFO: Logger set to DEBUG
+2024/10/26 (14:46:48) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:46:48) | INFO: Running on /dev/pts/0
+2024/10/26 (14:46:48) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:47:41) | ===> btop++ v.1.2.13
+2024/10/26 (14:47:41) | INFO: Logger set to DEBUG
+2024/10/26 (14:47:41) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:47:41) | INFO: Running on /dev/pts/0
+2024/10/26 (14:47:41) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:48:48) | ===> btop++ v.1.2.13
+2024/10/26 (14:48:48) | INFO: Logger set to DEBUG
+2024/10/26 (14:48:48) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:48:48) | INFO: Running on /dev/pts/0
+2024/10/26 (14:48:48) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:50:16) | ===> btop++ v.1.2.13
+2024/10/26 (14:50:16) | INFO: Logger set to DEBUG
+2024/10/26 (14:50:16) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:50:16) | INFO: Running on /dev/pts/0
+2024/10/26 (14:50:16) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:51:05) | DEBUG: Writing new config file
+2024/10/26 (14:51:05) | INFO: Quitting! Runtime: 00:00:49
+
+2024/10/26 (14:51:06) | ===> btop++ v.1.2.13
+2024/10/26 (14:51:06) | INFO: Logger set to DEBUG
+2024/10/26 (14:51:06) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:51:06) | INFO: Running on /dev/pts/0
+2024/10/26 (14:51:06) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:51:46) | INFO: Quitting! Runtime: 00:00:40
+
+2024/10/26 (14:51:47) | ===> btop++ v.1.2.13
+2024/10/26 (14:51:47) | INFO: Logger set to DEBUG
+2024/10/26 (14:51:47) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:51:47) | INFO: Running on /dev/pts/0
+2024/10/26 (14:51:47) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:52:31) | ===> btop++ v.1.2.13
+2024/10/26 (14:52:31) | INFO: Logger set to DEBUG
+2024/10/26 (14:52:31) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:52:31) | INFO: Running on /dev/pts/0
+2024/10/26 (14:52:31) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:52:57) | ===> btop++ v.1.2.13
+2024/10/26 (14:52:57) | INFO: Logger set to DEBUG
+2024/10/26 (14:52:57) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:52:57) | INFO: Running on /dev/pts/0
+2024/10/26 (14:52:57) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:53:54) | ===> btop++ v.1.2.13
+2024/10/26 (14:53:54) | INFO: Logger set to DEBUG
+2024/10/26 (14:53:54) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:53:54) | INFO: Running on /dev/pts/0
+2024/10/26 (14:53:54) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/10/26 (14:55:05) | DEBUG: Writing new config file
+2024/10/26 (14:55:05) | INFO: Quitting! Runtime: 00:01:11
+
+2024/10/26 (14:55:06) | ===> btop++ v.1.2.13
+2024/10/26 (14:55:06) | INFO: Logger set to DEBUG
+2024/10/26 (14:55:06) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:55:06) | INFO: Running on /dev/pts/0
+2024/10/26 (14:55:06) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:56:28) | ===> btop++ v.1.2.13
+2024/10/26 (14:56:28) | INFO: Logger set to DEBUG
+2024/10/26 (14:56:28) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:56:28) | INFO: Running on /dev/pts/0
+2024/10/26 (14:56:28) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:57:04) | ===> btop++ v.1.2.13
+2024/10/26 (14:57:04) | INFO: Logger set to DEBUG
+2024/10/26 (14:57:04) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:57:04) | INFO: Running on /dev/pts/0
+2024/10/26 (14:57:04) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:57:35) | ===> btop++ v.1.2.13
+2024/10/26 (14:57:35) | INFO: Logger set to DEBUG
+2024/10/26 (14:57:35) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:57:35) | INFO: Running on /dev/pts/0
+2024/10/26 (14:57:35) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:58:13) | ===> btop++ v.1.2.13
+2024/10/26 (14:58:13) | INFO: Logger set to DEBUG
+2024/10/26 (14:58:13) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:58:13) | INFO: Running on /dev/pts/0
+2024/10/26 (14:58:13) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:58:44) | ===> btop++ v.1.2.13
+2024/10/26 (14:58:44) | INFO: Logger set to DEBUG
+2024/10/26 (14:58:44) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:58:44) | INFO: Running on /dev/pts/0
+2024/10/26 (14:58:44) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:58:59) | ===> btop++ v.1.2.13
+2024/10/26 (14:58:59) | INFO: Logger set to DEBUG
+2024/10/26 (14:58:59) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:58:59) | INFO: Running on /dev/pts/0
+2024/10/26 (14:58:59) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (14:59:42) | ===> btop++ v.1.2.13
+2024/10/26 (14:59:42) | INFO: Logger set to DEBUG
+2024/10/26 (14:59:42) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (14:59:42) | INFO: Running on /dev/pts/0
+2024/10/26 (14:59:42) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (15:00:49) | ===> btop++ v.1.2.13
+2024/10/26 (15:00:49) | INFO: Logger set to DEBUG
+2024/10/26 (15:00:49) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (15:00:49) | INFO: Running on /dev/pts/0
+2024/10/26 (15:00:49) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/26 (15:01:41) | ===> btop++ v.1.2.13
+2024/10/26 (15:01:41) | INFO: Logger set to DEBUG
+2024/10/26 (15:01:41) | DEBUG: Using locale en_US.UTF-8
+2024/10/26 (15:01:41) | INFO: Running on /dev/pts/0
+2024/10/26 (15:01:41) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/27 (13:16:55) | ===> btop++ v.1.2.13
+2024/10/27 (13:16:55) | INFO: Logger set to DEBUG
+2024/10/27 (13:16:55) | DEBUG: Using locale en_US.UTF-8
+2024/10/27 (13:16:55) | INFO: Running on /dev/pts/1
+2024/10/27 (13:16:55) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (13:07:42) | ===> btop++ v.1.2.13
+2024/10/28 (13:07:42) | INFO: Logger set to DEBUG
+2024/10/28 (13:07:42) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (13:07:42) | INFO: Running on /dev/pts/4
+2024/10/28 (13:07:42) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (13:16:38) | ===> btop++ v.1.2.13
+2024/10/28 (13:16:38) | INFO: Logger set to DEBUG
+2024/10/28 (13:16:38) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (13:16:38) | INFO: Running on /dev/pts/1
+2024/10/28 (13:16:38) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (13:16:38) | ===> btop++ v.1.2.13
+2024/10/28 (13:16:38) | INFO: Logger set to DEBUG
+2024/10/28 (13:16:38) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (13:16:38) | INFO: Running on /dev/pts/2
+2024/10/28 (13:16:38) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (13:16:54) | ===> btop++ v.1.2.13
+2024/10/28 (13:16:54) | INFO: Logger set to DEBUG
+2024/10/28 (13:16:54) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (13:16:54) | INFO: Running on /dev/pts/1
+2024/10/28 (13:16:54) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (13:16:54) | ===> btop++ v.1.2.13
+2024/10/28 (13:16:54) | INFO: Logger set to DEBUG
+2024/10/28 (13:16:54) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (13:16:54) | INFO: Running on /dev/pts/2
+2024/10/28 (13:16:54) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (13:16:54) | ===> btop++ v.1.2.13
+2024/10/28 (13:16:54) | INFO: Logger set to DEBUG
+2024/10/28 (13:16:54) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (13:16:54) | INFO: Running on /dev/pts/3
+2024/10/28 (13:16:54) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (13:16:54) | ===> btop++ v.1.2.13
+2024/10/28 (13:16:54) | INFO: Logger set to DEBUG
+2024/10/28 (13:16:54) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (13:16:54) | INFO: Running on /dev/pts/4
+2024/10/28 (13:16:54) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (18:38:54) | ===> btop++ v.1.2.13
+2024/10/28 (18:38:54) | INFO: Logger set to DEBUG
+2024/10/28 (18:38:54) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (18:38:54) | INFO: Running on /dev/pts/2
+2024/10/28 (18:38:54) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (18:44:35) | ===> btop++ v.1.2.13
+2024/10/28 (18:44:35) | INFO: Logger set to DEBUG
+2024/10/28 (18:44:35) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (18:44:35) | INFO: Running on /dev/pts/2
+2024/10/28 (18:44:35) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/28 (18:45:45) | ===> btop++ v.1.2.13
+2024/10/28 (18:45:45) | INFO: Logger set to DEBUG
+2024/10/28 (18:45:45) | DEBUG: Using locale en_US.UTF-8
+2024/10/28 (18:45:45) | INFO: Running on /dev/pts/2
+2024/10/28 (18:45:45) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/29 (21:27:38) | ===> btop++ v.1.2.13
+2024/10/29 (21:27:38) | INFO: Logger set to DEBUG
+2024/10/29 (21:27:38) | DEBUG: Using locale en_US.UTF-8
+2024/10/29 (21:27:38) | INFO: Running on /dev/pts/0
+2024/10/29 (21:27:38) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/29 (21:29:39) | ===> btop++ v.1.2.13
+2024/10/29 (21:29:39) | INFO: Logger set to DEBUG
+2024/10/29 (21:29:39) | DEBUG: Using locale en_US.UTF-8
+2024/10/29 (21:29:39) | INFO: Running on /dev/pts/2
+2024/10/29 (21:29:39) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/10/30 (18:49:01) | ===> btop++ v.1.2.13
+2024/10/30 (18:49:01) | INFO: Logger set to DEBUG
+2024/10/30 (18:49:01) | DEBUG: Using locale en_US.UTF-8
+2024/10/30 (18:49:01) | INFO: Running on /dev/pts/2
+2024/10/30 (18:49:01) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/01 (09:58:37) | ===> btop++ v.1.2.13
+2024/11/01 (09:58:37) | INFO: Logger set to DEBUG
+2024/11/01 (09:58:37) | DEBUG: Using locale en_US.UTF-8
+2024/11/01 (09:58:37) | INFO: Running on /dev/pts/0
+2024/11/01 (09:58:37) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/02 (02:57:21) | ===> btop++ v.1.2.13
+2024/11/02 (02:57:21) | INFO: Logger set to DEBUG
+2024/11/02 (02:57:21) | DEBUG: Using locale en_US.UTF-8
+2024/11/02 (02:57:21) | INFO: Running on /dev/pts/4
+2024/11/02 (02:57:21) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/02 (07:32:13) | ===> btop++ v.1.2.13
+2024/11/02 (07:32:13) | INFO: Logger set to DEBUG
+2024/11/02 (07:32:13) | DEBUG: Using locale en_US.UTF-8
+2024/11/02 (07:32:13) | INFO: Running on /dev/pts/6
+2024/11/02 (07:32:13) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/12 (22:24:24) | ===> btop++ v.1.2.13
+2024/11/12 (22:24:24) | INFO: Logger set to DEBUG
+2024/11/12 (22:24:24) | DEBUG: Using locale en_US.UTF-8
+2024/11/12 (22:24:24) | INFO: Running on /dev/pts/4
+2024/11/12 (22:24:24) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/12 (22:29:52) | ===> btop++ v.1.2.13
+2024/11/12 (22:29:52) | INFO: Logger set to DEBUG
+2024/11/12 (22:29:52) | DEBUG: Using locale en_US.UTF-8
+2024/11/12 (22:29:52) | INFO: Running on /dev/pts/4
+2024/11/12 (22:29:52) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/13 (21:55:05) | ===> btop++ v.1.2.13
+2024/11/13 (21:55:05) | INFO: Logger set to DEBUG
+2024/11/13 (21:55:05) | DEBUG: Using locale en_US.UTF-8
+2024/11/13 (21:55:05) | INFO: Running on /dev/pts/4
+2024/11/13 (21:55:05) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/14 (11:49:28) | ===> btop++ v.1.2.13
+2024/11/14 (11:49:28) | INFO: Logger set to DEBUG
+2024/11/14 (11:49:28) | DEBUG: Using locale en_US.UTF-8
+2024/11/14 (11:49:28) | INFO: Running on /dev/pts/7
+2024/11/14 (11:49:28) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/14 (17:45:08) | ===> btop++ v.1.2.13
+2024/11/14 (17:45:08) | INFO: Logger set to DEBUG
+2024/11/14 (17:45:08) | DEBUG: Using locale en_US.UTF-8
+2024/11/14 (17:45:08) | INFO: Running on /dev/pts/7
+2024/11/14 (17:45:08) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/14 (23:27:46) | ===> btop++ v.1.2.13
+2024/11/14 (23:27:46) | INFO: Logger set to DEBUG
+2024/11/14 (23:27:46) | DEBUG: Using locale en_US.UTF-8
+2024/11/14 (23:27:46) | INFO: Running on /dev/pts/7
+2024/11/14 (23:27:46) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/17 (23:20:38) | ===> btop++ v.1.2.13
+2024/11/17 (23:20:38) | INFO: Logger set to DEBUG
+2024/11/17 (23:20:38) | DEBUG: Using locale en_US.UTF-8
+2024/11/17 (23:20:38) | INFO: Running on /dev/pts/6
+2024/11/17 (23:20:38) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/17 (23:20:46) | ===> btop++ v.1.2.13
+2024/11/17 (23:20:46) | INFO: Logger set to DEBUG
+2024/11/17 (23:20:46) | DEBUG: Using locale en_US.UTF-8
+2024/11/17 (23:20:46) | INFO: Running on /dev/pts/6
+2024/11/17 (23:20:46) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/18 (00:37:37) | ===> btop++ v.1.2.13
+2024/11/18 (00:37:37) | INFO: Logger set to DEBUG
+
+2024/11/18 (00:37:37) | ===> btop++ v.1.2.13
+2024/11/18 (00:37:37) | INFO: Logger set to DEBUG
+
+2024/11/18 (00:37:37) | ===> btop++ v.1.2.13
+2024/11/18 (00:37:37) | INFO: Logger set to DEBUG
+2024/11/18 (00:37:37) | DEBUG: Using locale en_US.UTF-8
+2024/11/18 (00:37:37) | DEBUG: Using locale en_US.UTF-8
+2024/11/18 (00:37:37) | DEBUG: Using locale en_US.UTF-8
+2024/11/18 (00:37:37) | INFO: Running on /dev/pts/9
+
+2024/11/18 (00:37:37) | ===> btop++ v.1.2.13
+2024/11/18 (00:37:37) | INFO: Logger set to DEBUG
+2024/11/18 (00:37:37) | INFO: Running on /dev/pts/12
+2024/11/18 (00:37:37) | DEBUG: Using locale en_US.UTF-8
+2024/11/18 (00:37:37) | INFO: Running on /dev/pts/8
+2024/11/18 (00:37:37) | INFO: Running on /dev/pts/11
+2024/11/18 (00:37:37) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/11/18 (00:37:37) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/11/18 (00:37:37) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+2024/11/18 (00:37:37) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/18 (02:53:36) | ===> btop++ v.1.2.13
+2024/11/18 (02:53:36) | INFO: Logger set to DEBUG
+2024/11/18 (02:53:36) | DEBUG: Using locale en_US.UTF-8
+2024/11/18 (02:53:36) | INFO: Running on /dev/pts/7
+2024/11/18 (02:53:36) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/18 (03:18:13) | ===> btop++ v.1.2.13
+2024/11/18 (03:18:13) | INFO: Logger set to DEBUG
+2024/11/18 (03:18:13) | DEBUG: Using locale en_US.UTF-8
+2024/11/18 (03:18:13) | INFO: Running on /dev/pts/5
+2024/11/18 (03:18:13) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme
+
+2024/11/18 (03:18:55) | ===> btop++ v.1.2.13
+2024/11/18 (03:18:55) | INFO: Logger set to DEBUG
+2024/11/18 (03:18:55) | DEBUG: Using locale en_US.UTF-8
+2024/11/18 (03:18:55) | INFO: Running on /dev/pts/0
+2024/11/18 (03:18:55) | DEBUG: Loading theme file: /home/l3manuel/.config/btop/themes/3manuel.theme

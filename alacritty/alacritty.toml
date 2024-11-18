@@ -1,0 +1,17 @@
+[font]
+size = 13.0
+
+[font.normal]
+family = "monospace"
+style = "bold"
+
+[window]
+opacity = 0.7
+
+[window.padding]
+x = 20
+y = 20
+
+[colors.primary]
+foreground = "#000000"
+background = "#181818"
