@@ -89,6 +89,10 @@ fi
 export PATH="~/usr/lib/llvm-14/bin/:$PATH"
 export PATH="~/.local/bin:$PATH"
 export PATH="~/extract-xiso/build:$PATH"
+export GRADLE_HOME=/home/l3manuel/gradle-9.0.0
+export PATH=${GRADLE_HOME}/bin:${PATH}
+alias ghidra="~/ghidra/ghidra-Ghidra_11.4.1_build/build/dist/ghidra_11.4.1_DEV/ghidraRun" 
+export PATH=$PATH:~/go/bin
 # some more ls aliases
 #alias ll='ls -l'
 #alias la='ls -A'
@@ -115,6 +119,7 @@ if ! shopt -oq posix; then
 fi
 
 alias minecraft="./Downloads/TLauncher.v10/start.sh"
+alias mypaint="./Downloads/MyPaint-v2.0.1.AppImage"
 
 PS1="\[\e[30m\]\[\e[m\] : \[\e[m\] \W \[\e[34m\] \[\e[m\]"
 cd() {
@@ -128,3 +133,9 @@ cd() {
         PS1="\[\e[30m\]\[\e[m\] : \[\e[m\] \W \[\e[34m\] \[\e[m\]"
     fi
 }
+. "$HOME/.cargo/env"
+export SYSTEMD_URLIFY=0
+
+export WASMTIME_HOME="$HOME/.wasmtime"
+
+export PATH="$WASMTIME_HOME/bin:$PATH"

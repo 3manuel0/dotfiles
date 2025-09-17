@@ -65,6 +65,19 @@ keys = [
     # A list of available commands that can be bound to keys can be found
     # at https://docs.qtile.org/en/latest/manual/config/lazy.html
     # Switch between windows
+    Key([], "XF86AudioNext", lazy.spawn("playerctl next")),
+    Key([], "XF86AudioPrev", lazy.spawn("playerctl previous")),  # Previous Track
+    Key(
+        [],
+        "XF86AudioRaiseVolume",
+        lazy.spawn("amixer -q sset Master 1%+"),
+    ),
+    Key(
+        [],
+        "XF86AudioLowerVolume",
+        lazy.spawn("amixer -q sset Master 1%-"),
+    ),
+    Key([], "XF86AudioPlay", lazy.spawn("playerctl play-pause")),
     Key([mod], "h", lazy.layout.left(), desc="Move focus to left"),
     Key([mod], "l", lazy.layout.right(), desc="Move focus to right"),
     Key([mod], "j", lazy.layout.down(), desc="Move focus down"),
@@ -117,11 +130,17 @@ keys = [
     ),
     Key([mod], "Return", lazy.spawn(terminal), desc="Launch terminal"),
     Key([mod], "b", lazy.spawn("google-chrome"), desc="Launch browzer"),
-    Key([mod], "e", lazy.spawn("thunar"), desc="Launch browzer"),
+    Key([mod], "e", lazy.spawn("dolphin"), desc="Launch browzer"),
     # Toggle between different layouts as defined below
     Key([mod, "shift"], "s", lazy.spawn("scrot -s"), desc="screenshot"),
     Key([mod], "Tab", lazy.next_layout(), desc="Toggle between layouts"),
     Key([mod], "q", lazy.window.kill(), desc="Kill focused window"),
+    Key(
+        [mod],
+        "a",
+        lazy.spawn("rofi -show drun"),
+        desc="Start Rofi menu for desktop apps",
+    ),
     Key(
         [mod],
         "f",
@@ -136,7 +155,8 @@ keys = [
     ),
     Key([mod, "control"], "r", lazy.reload_config(), desc="Reload the config"),
     Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
-    Key([mod], "r", lazy.spawncmd(), desc="Spawn a command using a prompt widget"),
+    # Key([mod], "r", lazy.spawncmd(), desc="Spawn a command using a prompt widget"),
+    Key([mod], "r", lazy.spawn("rofi -show run"), desc="Start Rofi menu"),
 ]
 
 # Add key bindings to switch VTs in Wayland.
@@ -397,7 +417,7 @@ screens = [
                     background="#000000",
                 ),
                 widget.Clock(
-                    format="%a%b%d %I:%M%p",
+                    format="%a%b%d %H:%M",
                     fmt="<b>󰸗 {}</b>",
                     background="#000000",
                 ),
@@ -421,6 +441,7 @@ screens = [
                     **powerRoundRight,
                 ),
                 widget.Systray(),
+                widget.Notify(),
                 # widget.Spacer(length=5, background="#8A9294"),
                 # widget.QuickExit(),
             ],
@@ -472,6 +493,8 @@ floating_layout = layout.Floating(
         Match(title="branchdialog"),  # gitk
         Match(title="pinentry"),  # GPG key password entry
         Match(wm_class="Tk"),
+        Match(wm_class="gnome-calculator"),
+        Match(wm_class="ghidra-Ghidra"),
     ]
 )
 auto_fullscreen = True
